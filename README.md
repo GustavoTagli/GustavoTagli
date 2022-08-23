@@ -1,5 +1,6 @@
-<div align="center">
-## Hello eu sou o Gustavo Taglianetti, programador fullstack!
+<div>
+  <h1 align="center">Hello sou o Gustavo Taglianetti, Desenvolvedor Full-Stack!</h1>
+  <h3  align="center">Sou estudante em Ciência da Computação apaixonado por tecnologia e inovação</h3>
 </div>
 
 <div align="center">

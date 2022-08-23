@@ -1,4 +1,6 @@
+<div align="center">
 ## Hello eu sou o Gustavo Taglianetti, programador fullstack!
+</div>
 
 <div align="center">
   <a href="https://github.com/GustavoTagli">
